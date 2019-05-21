@@ -1,0 +1,29 @@
+#
+# Results on Tuesday May 21 2019 10:41:09 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:66.0) Gecko/20100101 Firefox/66.0
+# Design number was non-random = 15
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1558435270,6a5f873a4df0cb5ef43f0b285396930d,PennController,0,0,unlabeled,NULL,PennController,0,_Trial_,Start,1558435251515,NULL
+1558435270,6a5f873a4df0cb5ef43f0b285396930d,PennController,0,0,unlabeled,NULL,PennController,0,_Trial_,End,1558435253446,NULL
+1558435270,6a5f873a4df0cb5ef43f0b285396930d,PennController,1,0,unlabeled,NULL,PennController,1,_Trial_,Start,1558435253455,NULL
+1558435270,6a5f873a4df0cb5ef43f0b285396930d,PennController,1,0,unlabeled,NULL,PennController,1,_Trial_,End,1558435256300,NULL
+1558435270,6a5f873a4df0cb5ef43f0b285396930d,PennController,2,0,unlabeled,NULL,PennController,2,_Trial_,Start,1558435256315,NULL
+1558435270,6a5f873a4df0cb5ef43f0b285396930d,PennController,2,0,unlabeled,NULL,PennController,2,_Trial_,End,1558435259009,NULL
+1558435270,6a5f873a4df0cb5ef43f0b285396930d,PennController,3,0,unlabeled,NULL,PennController,3,_Trial_,Start,1558435259019,NULL
+1558435270,6a5f873a4df0cb5ef43f0b285396930d,PennController,3,0,unlabeled,NULL,PennController,3,_Trial_,End,1558435266072,NULL
+1558435270,6a5f873a4df0cb5ef43f0b285396930d,PennController,4,0,unlabeled,NULL,PennController,4,_Trial_,Start,1558435266081,NULL
+1558435270,6a5f873a4df0cb5ef43f0b285396930d,PennController,4,0,unlabeled,NULL,PennController,4,_Trial_,End,1558435269224,NULL
